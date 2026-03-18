@@ -5165,11 +5165,11 @@ z-index: 15;
 
 /* ===== NAVBAR LOGO ALIGN FIX ===== */
 
-.navbar .container {
+/* .navbar .container {
   display: flex;
   align-items: center;
   justify-content: space-between;
-}
+} */
 
 .navbar-header {
   display: flex;
@@ -5183,8 +5183,3 @@ z-index: 15;
   align-items: center;
 }
 
-.logo-light,
-.logo-dark {
-  height: 45px !important;
-  width: auto !important;
-}
